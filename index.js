@@ -17,9 +17,9 @@ const PORT = process.env.PORT || 3000;
 // Define allowed origins. This is crucial for local testing and production.
 const allowedOrigins = [
   // Your frontend's local development origins (crucial for local testing)
-  'http://localhost:3000', 
-  'http://localhost:5173', 
-  'http://localhost:5174', 
+  // 'http://localhost:3000', 
+  // 'http://localhost:5173', 
+  // 'http://localhost:5174', 
   'https://newsletter-frontend-plum.vercel.app'
   
   // Add your Vercel deployment's primary domain (e.g., if you have a custom domain)
