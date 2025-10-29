@@ -20,6 +20,7 @@ const allowedOrigins = [
   'http://localhost:3000', 
   'http://localhost:5173', 
   'http://localhost:5174', 
+  'https://newsletter-frontend-plum.vercel.app'
   
   // Add your Vercel deployment's primary domain (e.g., if you have a custom domain)
   // process.env.FRONTEND_URL, // Example: 'https://your-frontend.com' 
